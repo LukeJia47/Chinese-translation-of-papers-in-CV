@@ -216,6 +216,8 @@
 
 ![HourGladd_structure](Self-supervised Occlusion-aware Line Description and Detection.assets/view-16583913593381.gif)
 
+![image-20230223161522810](Self-supervised Occlusion-aware Line Description and Detection.assets/image-20230223161522810.png)
+
 [^]: 堆叠沙漏网络
 
 ![image-20220721162315192](Self-supervised Occlusion-aware Line Description and Detection.assets/image-20220721162315192.png)
